@@ -28,7 +28,7 @@ LDA for chest pain type
 
 # KNN
 
-* When predicting heart disease, QDA performed fairly well, achieving an accuracy score of about 76.8%.
+* When predicting heart disease with KNN, the choices for k were looped through to find the ideal choice when carrying out the algorithm. K = 47 was determined to be the best choice for predicting heart disease as it yielded the highest accuracy rate. The KNN algorithm performed relatively well when predicting heart disease status with an accuracy score of 79.41%
 * When predicting chest pain type, the choices for k were looped through to find the ideal choice when carrying out the algorithm. K = 16 was determined to be the best choice as it yielded the highest accuracy rate. The KNN algorithm performed fairly poorly when predicting chest pain status with an accuracy score of 62.31%
 
 # Decision Trees
