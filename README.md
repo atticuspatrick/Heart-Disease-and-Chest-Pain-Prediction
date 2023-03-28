@@ -1,6 +1,6 @@
 # Heart-Disease-and-Chest-Pain-Prediction
 
-This is the final project for STAT 223 carried out by Owen Patrick, Cam Lunn, and myself. In this project, my group had a goal of predicting both chest pain type and heart disease within patients. We performed the following:
+This is a final project carried out by Owen Patrick, Cam Lunn, and myself. In this project, my group had a goal of predicting both chest pain type and heart disease within patients. We performed the following:
 * Exploratory data analysis (EDA) on the data set to prune necessary features with the strongest prediction power
 * Linear Discriminant Analysis (LDA) to predict both chest pain type and heart disease
 * Quadratic Discriminant Analysis (QDA) to predict chest pain type and heart disease
