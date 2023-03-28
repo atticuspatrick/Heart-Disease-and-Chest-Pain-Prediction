@@ -24,7 +24,7 @@ LDA for chest pain type
 
 # QDA
 * When predicting heart disease, QDA performed fairly well, achieving an accuracy score of about 76.8%.
-* When predicting chest pain type, QDA was not as effective as predicting heart disease, as it achieved an accuracy score of 61.44%. As shown in the confusion matrix, the most commonly misclassified chest pain types were NAP (52.615% balanced accuracy) and TA (49.828% balanced accuracy).
+* When predicting chest pain type, QDA was not as effective as predicting heart disease, as it achieved an accuracy score of 61.44%. From the resulting confusion matrix, the most commonly misclassified chest pain types were NAP (52.615% balanced accuracy) and TA (49.828% balanced accuracy).
 
 # KNN
 
