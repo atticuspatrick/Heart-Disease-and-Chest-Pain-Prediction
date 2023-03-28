@@ -1,11 +1,11 @@
 # Heart-Disease-and-Chest-Pain-Prediction
 
 This is the final project for STAT 223 carried out by Owen Patrick, Cam Lunn, and myself. In this project, my group had a goal of predicting both chest pain type and heart disease within patients. We performed the following:
-*Exploratory data analysis (EDA) on the data set to prune necessary features with the strongest prediction power
-*Linear Discriminant Analysis (LDA) to predict both chest pain type and heart disease
-*Quadratic Discriminant Analysis (QDA) to predict chest pain type and heart disease
-*K-Nearest Neighbors to predict chest pain type and heart disease.
-*Decision Trees to predict chest pain type and heart disease
+* Exploratory data analysis (EDA) on the data set to prune necessary features with the strongest prediction power
+* Linear Discriminant Analysis (LDA) to predict both chest pain type and heart disease
+* Quadratic Discriminant Analysis (QDA) to predict chest pain type and heart disease
+* K-Nearest Neighbors to predict chest pain type and heart disease.
+* Decision Trees to predict chest pain type and heart disease
 
 Feel free to check out the full code in the RMD or the full report in the attached PDF! Here is a brief summary of our findings as the PDF and RMD are pretty lengthy documents:
 
