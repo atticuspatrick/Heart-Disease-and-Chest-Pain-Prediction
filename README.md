@@ -11,14 +11,18 @@ Feel free to check out the full code in the RMD or the full report in the attach
 
 # LDA
 
+LDA for chest pain type
 ![Chest LDA](ldachest.png)
 
+LDA for heart disease (affected vs unaffected)
 ![Heart LDA](lda.png)
 
 # Decision Trees
 
+Decision Tree for chest pain type
 ![Chest Tree](chest tree.png)
 
+Decision Tree for heart disease (affected vs unaffected)
 ![Heart Tree](heart tree.png)
 
 # Summary of Findings
